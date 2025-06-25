@@ -7,5 +7,6 @@ the user plays against the computer in a command-line interface.
 ## Features
 - User vs Computer gameplay
 - Random choice generation by the computer
-- Score tracking 
+- Score and round tracking
+- Allows user to play next round or not
 - Simple and interactive text-based interface
